@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Tjark, CTO & Co-Founder of [e-Mission GmbH](https://e-mission.de). I am currently exploring the switch from REST to gRPC.
+I'm Tjark, CTO & Co-Founder at [e-Mission GmbH](https://e-mission.de).
 
 ### Things I enjoy working with
 
